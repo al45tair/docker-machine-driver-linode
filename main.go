@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/docker/machine/libmachine/drivers/plugin"
-	"github.com/linode/docker-machine-driver-linode/pkg/drivers/linode"
+	"github.com/al45tair/docker-machine-driver-linode/pkg/drivers/linode"
 )
 
 func main() {
